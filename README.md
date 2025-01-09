@@ -1,4 +1,4 @@
-![Alt Text](Technical-Support-Certificate.png)
+![Alt Text](Technical-Support-Certificate.png) <hr> ![Alt Text](Bits-and-Bytes.png)
 
 <ul>
   <li>This repository showcases my entire journey that I have gone through while taking the Google IT Support Professional Certificate Course. </li>
